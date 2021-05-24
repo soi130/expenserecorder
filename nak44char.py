@@ -1,0 +1,5 @@
+
+
+
+thaichar = []
+thaichar.append('ckl')
